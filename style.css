@@ -1,0 +1,32 @@
+canvas{
+    box-shadow: 5px 5px 5px white;
+    border: 6px solid rgb(107, 11, 53);
+    border-radius: 20px;
+}
+
+.header{
+font-size: 30px;
+width:100%;
+margin-top: 0px;
+box-shadow: 5px 5px 5px lightslategrey;
+}
+
+.note{
+    color: black;
+    font-size: 15px;
+}
+
+.footer{
+    text-align: center;
+    background-color: rgb(3, 69, 69);
+    color: white;
+    line-height: 3;
+    position: fixed;
+    width: 100%;
+    bottom: 0; 
+}
+canvas{
+    box-shadow: 5px 5px 5px rgb(167, 165, 219);
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 20px;
+}
